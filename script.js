@@ -5,7 +5,6 @@ const rollback = 10;
 let fullPrice = 100;
 const adaptive = true;
 
-alert('Предупреждение с любым текстом');
 console.log(title, fullPrice, adaptive);
 console.log(screens.length);
 console.log('Стоимость верстки экранов:', screenPrice, 'рублей', 'и Стоимость разработки сайта:', fullPrice, 'рублей');
